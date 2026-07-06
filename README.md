@@ -2,6 +2,7 @@ INTERNSHIP TASK REPORT
 Internee.pk — Cybersecurity Internship Program
 **
 TASK 1 - ENDPOINT SECURITY & THREAT DETECTION**
+
 Endpoint Security & Threat Detection
 Deploying EDR, File Integrity Monitoring, and Automated Alerts using Wazuh SIEM
 
